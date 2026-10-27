@@ -10,7 +10,7 @@ English version below.
 panelu do uruchamiania i nadzorowania agentów Claude Code, w wersji serwerowej
 (self-hosted) i desktopowej, wraz z aktualizacjami i dokumentacją („Oprogramowanie”).
 
-1.2. Licencjodawcą jest **Crisples**, autor Oziris („Licencjodawca”). Kontakt: przez
+1.2. Licencjodawcą jest **Michał Surdyka** (Crisples), autor Oziris („Licencjodawca”). Kontakt: przez
 <https://oziris-hub.pl> albo stronę projektu na GitHubie.
 
 1.3. Instalując, uruchamiając lub używając Oprogramowania, akceptujesz Umowę. Jeśli jej nie
@@ -134,7 +134,7 @@ obowiązuje od momentu instalacji lub aktualizacji do wersji, do której ją do�
 and supervising Claude Code agents, in its server (self-hosted) and desktop editions,
 including updates and documentation (the "Software").
 
-1.2. The licensor is **Crisples**, the author of Oziris (the "Licensor"). Contact: via
+1.2. The licensor is **Michał Surdyka** (Crisples), the author of Oziris (the "Licensor"). Contact: via
 <https://oziris-hub.pl> or the project's GitHub page.
 
 1.3. By installing, running or using the Software you accept the Agreement. If you do not

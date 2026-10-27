@@ -41,4 +41,4 @@ Oziris is not an Anthropic product and is not endorsed by Anthropic.
 Oziris to oprogramowanie zamknięte, bezpłatne w tej wersji testowej na warunkach
 [umowy licencyjnej (EULA)](LICENSE.md). Oziris nie jest produktem Anthropic.
 
-© 2026 Crisples
+© 2026 Michał Surdyka (Crisples)
